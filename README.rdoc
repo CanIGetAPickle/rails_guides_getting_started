@@ -1,0 +1,3 @@
+== README
+
+Basic blog from Rails Guides ("Getting Started").
